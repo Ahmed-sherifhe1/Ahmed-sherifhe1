@@ -1,25 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 70" style="background-color: #00000000;" width="500px" height="70px">
 
-
-                <path id="path0">
-                            <!-- Single line -->
-                                <animate id="d0" attributeName="d" begin="0s;d1.end" dur="4000ms" fill="remove" values="m0,35 h0 ; m0,35 h500 ; m0,35 h500 ; m0,35 h0" keyTimes="0;0.8;0.8;1"/>
-                    </path>
-    <text font-family="&quot;Righteous&quot;, monospace" fill="#36BCF7" font-size="35" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
-        <textPath xlink:href="#path0">
-            Hi There! 👋
-        </textPath>
-    </text>
-        <path id="path1">
-                            <!-- Single line -->
-                                <animate id="d1" attributeName="d" begin="d0.end" dur="4000ms" fill="remove" values="m0,35 h0 ; m0,35 h500 ; m0,35 h500 ; m0,35 h0" keyTimes="0;0.8;0.8;1"/>
-                    </path>
-    <text font-family="&quot;Righteous&quot;, monospace" fill="#36BCF7" font-size="35" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
-        <textPath xlink:href="#path1">
-             I'm Ahmed Sherif! 😎
-        </textPath>
-    </text>
-</svg>
 
 <h1 align="center">Hi 👋, I'm Ahmed Sherif</h1>
 <h2 align="center">A passionate frontend developer from Egypt 🧑‍💻</h2>
