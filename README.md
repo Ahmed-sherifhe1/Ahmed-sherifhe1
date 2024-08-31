@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **<a href="https://www.msp-alazhar.tech/">MSP-Website</a>**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Framer Motion With React JS**
 
 - 📫 How to reach me **ahmedsherifhe1@gmail.com**
 
