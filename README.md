@@ -11,11 +11,12 @@
 
 <!--p align="left"> <a href="https://twitter.com/ahmedsherifhe1" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedsherifhe1?logo=twitter&style=for-the-badge" alt="ahmedsherifhe1" /></a> </p>-->
 
-### I’m currently working on **<a href="https://www.msp-alazhar.tech/">MSP-Website</a>** ###
+### I’m currently working on **<a href="mailTo:ahmedsherifhe1@gmail.com">Rolex-App</a>** ###
 
 ### I’m currently learning **Framer Motion With React JS** ###
 
 ### How to reach me **ahmedsherifhe1@gmail.com** ###
+
 
 <hr>
 <!--<h3 align="left">Connect with me:</h3>
@@ -41,21 +42,28 @@
 ![Static Badge](https://img.shields.io/badge/REACT%20ROUTER-%23?style=for-the-badge&logo=reactrouter&logoColor=%23CA4245&labelColor=%23111&color=%23333&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp8nOfP2fw24%26list%3DPLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
 ![Static Badge](https://img.shields.io/badge/Redux%20Toolkit-%23?style=for-the-badge&logo=redux&logoColor=%23764ABC&labelColor=%23111111&color=%23333333&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp8nOfP2fw24%26list%3DPLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
 ![Static Badge](https://img.shields.io/badge/react--bootstrap-CA4245?style=for-the-badge&logo=reactbootstrap&logoColor=%2341E0FD&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/vercel-%23?style=for-the-badge&logo=vercel&logoColor=%23eee&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/github%20pages-%23?style=for-the-badge&logo=github&logoColor=%23eee&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/netlify-%23?style=for-the-badge&logo=netlify&logoColor=%2300C7B7&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/framer%20motion-%23?style=for-the-badge&logo=framer&logoColor=%230055FF&labelColor=%23111&color=%23333)
 
-</center>
+
 <br>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sherifhe1&show_icons=true&locale=en&layout=compact" alt="ahmed-sherifhe1" /></p>
 
-<div style="diplay:flex">
   
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-sherifhe1&show_icons=true&locale=en" alt="ahmed-sherifhe1" /></p>
 
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sherifhe1&" alt="ahmed-sherifhe1" /></p>
+<div align="center" style="display:flex">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-sherifhe1&show_icons=true&theme=transparent&title_color=bc436b&text_color=bc436b&icon_color=bc436b&hide_border=true)
+
+
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmed-sherifhe1&theme=transparent&hide_border=true&stroke=BC436B&ring=BC436B&fire=BC436B&currStreakNum=BC436B&sideNums=BC436B&excludeDaysLabel=BC436B&dates=BC436B&sideLabels=BC436B&currStreakLabel=BC436B)](https://git.io/streak-stats)
+
 </div>
-
-
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-sherifhe1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-sherifhe1" /> </p>-->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-sherifhe1" alt="ahmed-sherifhe1" /></a> </p>
