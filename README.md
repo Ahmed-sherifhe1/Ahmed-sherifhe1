@@ -1,8 +1,11 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif" align="center"/>
+
+
 <div align="center">
   
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&duration=3000&pause=1000&color=06AC38&center=true&vCenter=true&width=850&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sherif;A+passionate+Frontend+Developer+from+Egypt+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=24&duration=3000&pause=1000&color=bc436b&center=true&vCenter=true&width=714&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sherif;A++passionate+Frontend+Developer+from+Egypt+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 </div>
 <!--<h1 align="center">Hi 👋, I'm Ahmed Sherif</h1>
@@ -18,7 +21,13 @@
 ### How to reach me **ahmedsherifhe1@gmail.com** ###
 
 
-<hr>
+
+
+![snake gif](https://github.com/Ahmed-sherifhe1/Ahmed-sherifhe1/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/Ahmed-sherifhe1/Ahmed-sherifhe1/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedsherifhe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedsherifhe1" height="30" width="40" /></a>
@@ -28,7 +37,10 @@
 </p>
 <center>
  --> 
-<h3 align="left">Languages and Tools:</h3>
+
+
+
+## Languages and Tools : ##
 
 ![Static Badge](https://img.shields.io/badge/html5-CA4245?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23111&color=%23333&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6QAELgirvjs%26list%3DPLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 ![Static Badge](https://img.shields.io/badge/css3-CA4245?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23111&color=%23333&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DX1ulCwyhCVM%26list%3DPLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
@@ -46,6 +58,12 @@
 ![Static Badge](https://img.shields.io/badge/github%20pages-%23?style=for-the-badge&logo=github&logoColor=%23eee&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/netlify-%23?style=for-the-badge&logo=netlify&logoColor=%2300C7B7&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/framer%20motion-%23?style=for-the-badge&logo=framer&logoColor=%230055FF&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/NPM-%23?style=for-the-badge&logo=npm&logoColor=%23CB3837&logoSize=auto&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/vite-%23?style=for-the-badge&logo=vite&logoColor=%23646CFF&logoSize=auto&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/figma-%23?style=for-the-badge&logo=figma&logoColor=%23F24E1E&logoSize=200&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/notion-%23?style=for-the-badge&logo=notion&logoColor=%23eee&logoSize=200&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/pagespeed%20insights-%23?style=for-the-badge&logo=pagespeedinsights&logoColor=%234285F4&logoSize=200rem&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/lighthouse-%23?style=for-the-badge&logo=lighthouse&logoColor=%23F44B21&logoSize=200rem&labelColor=%23111&color=%23333)
 
 
 <br>
@@ -67,4 +85,12 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-sherifhe1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-sherifhe1" /> </p>-->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-sherifhe1" alt="ahmed-sherifhe1" /></a> </p>
+
+## Connect with Me Across the Digital Universe ## 
+
+  
+![Static Badge](https://img.shields.io/badge/Facebook-(contact%20with%20me)?style=flat&logo=facebook&logoColor=%23eee&logoSize=200rem&labelColor=%230866FF&color=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100012178745640)
+  ![Static Badge](https://img.shields.io/badge/X--Twitter-(contact%20with%20me)?style=flat&logo=x&logoColor=%23eee&logoSize=200rem&labelColor=%23000000&color=%23000000&link=[https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100012178745640](https://x.com/AhmedSherifhe1))
+![Static Badge](https://img.shields.io/badge/Linkedin-(contact%20with%20me)?style=flat&logo=linkedin&logoColor=%23eee&logoSize=200rem&labelColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmed-sherif-2b6132249%2F)
+
 
