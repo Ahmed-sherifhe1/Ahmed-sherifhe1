@@ -2,7 +2,12 @@
 
 
 <div align="center">
-  
+
+<!--tomorrow tasks here :
+- change color of the snake
+- adding the rest of accounts
+- adding islamic special-->
+
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&duration=3000&pause=1000&color=06AC38&center=true&vCenter=true&width=850&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sherif;A+passionate+Frontend+Developer+from+Egypt+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 -->
 
@@ -64,21 +69,26 @@
 ![Static Badge](https://img.shields.io/badge/notion-%23?style=for-the-badge&logo=notion&logoColor=%23eee&logoSize=200&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/pagespeed%20insights-%23?style=for-the-badge&logo=pagespeedinsights&logoColor=%234285F4&logoSize=200rem&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/lighthouse-%23?style=for-the-badge&logo=lighthouse&logoColor=%23F44B21&logoSize=200rem&labelColor=%23111&color=%23333)
+<img src="https://jwt.io/img/logo-asset.svg" height="28px"/>
+![Static Badge](https://img.shields.io/badge/google%20fonts-%23ffffff?style=for-the-badge&logo=googlefonts&logoSize=auto&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/fontawesome-%23ffffff?style=for-the-badge&logo=fontawesome&logoSize=auto&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/scroll--reveal-%23ffffff?style=for-the-badge&logo=scrollreveal&logoSize=auto&labelColor=%23111&color=%23333)
 
 
 <br>
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sherifhe1&show_icons=true&locale=en&layout=compact" alt="ahmed-sherifhe1" /></p>
-
+<div align="center" style="display:flex">
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-sherifhe1&show_icons=false&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&title_color=bc436b&hide_border=true&text_color=bc436b)
+
+</div>
+<!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sherifhe1&show_icons=true&locale=en&layout=compact" alt="ahmed-sherifhe1" /></p>
+-->
+  
+
 
 <div align="center" style="display:flex">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-sherifhe1&show_icons=true&theme=transparent&title_color=bc436b&text_color=bc436b&icon_color=bc436b&hide_border=true)
-
-
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmed-sherifhe1&theme=transparent&hide_border=true&stroke=BC436B&ring=BC436B&fire=BC436B&currStreakNum=BC436B&sideNums=BC436B&excludeDaysLabel=BC436B&dates=BC436B&sideLabels=BC436B&currStreakLabel=BC436B)](https://git.io/streak-stats)
 
 </div>
@@ -92,5 +102,5 @@
 ![Static Badge](https://img.shields.io/badge/Facebook-(contact%20with%20me)?style=flat&logo=facebook&logoColor=%23eee&logoSize=200rem&labelColor=%230866FF&color=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100012178745640)
   ![Static Badge](https://img.shields.io/badge/X--Twitter-(contact%20with%20me)?style=flat&logo=x&logoColor=%23eee&logoSize=200rem&labelColor=%23000000&color=%23000000&link=[https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100012178745640](https://x.com/AhmedSherifhe1))
 ![Static Badge](https://img.shields.io/badge/Linkedin-(contact%20with%20me)?style=flat&logo=linkedin&logoColor=%23eee&logoSize=200rem&labelColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmed-sherif-2b6132249%2F)
-
+![Static Badge](https://img.shields.io/badge/Instagram-%23ffffff?style=flat&logo=instagram&logoColor=%23ffffff&logoSize=auto&labelColor=%23E4405F&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fahhhmmeed_sheerif%2F)
 
