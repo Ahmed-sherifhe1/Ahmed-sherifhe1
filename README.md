@@ -60,7 +60,7 @@
 ![Static Badge](https://img.shields.io/badge/Redux%20Toolkit-%23?style=for-the-badge&logo=redux&logoColor=%23764ABC&labelColor=%23111111&color=%23333333&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp8nOfP2fw24%26list%3DPLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
 ![Static Badge](https://img.shields.io/badge/react--bootstrap-CA4245?style=for-the-badge&logo=reactbootstrap&logoColor=%2341E0FD&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/vercel-%23?style=for-the-badge&logo=vercel&logoColor=%23eee&labelColor=%23111&color=%23333)
-![Static Badge](https://img.shields.io/badge/github%20pages-%23?style=for-the-badge&logo=github&logoColor=%23eee&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/%3C...%2F%3E-%23?style=for-the-badge&logo=githubpages&logoSize=auto&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/netlify-%23?style=for-the-badge&logo=netlify&logoColor=%2300C7B7&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/framer%20motion-%23?style=for-the-badge&logo=framer&logoColor=%230055FF&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/NPM-%23?style=for-the-badge&logo=npm&logoColor=%23CB3837&logoSize=auto&labelColor=%23111&color=%23333)
@@ -89,7 +89,7 @@
 <div align="center" style="display:flex">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-sherifhe1&show_icons=true&theme=transparent&title_color=bc436b&text_color=bc436b&icon_color=bc436b&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmed-sherifhe1&theme=transparent&hide_border=true&stroke=BC436B&ring=BC436B&fire=BC436B&currStreakNum=BC436B&sideNums=BC436B&excludeDaysLabel=BC436B&dates=BC436B&sideLabels=BC436B&currStreakLabel=BC436B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmed-sherifhe1&theme=transparent&hide_border=true&stroke=BC436B&ring=BC436B&fire=BC436B&currStreakNum=BC436B&sideNums=BC436B&excludeDaysLabel=BC436B&dates=BC436B&no-bg=true&sideLabels=BC436B&currStreakLabel=BC436B)](https://git.io/streak-stats)
 
 </div>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-sherifhe1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-sherifhe1" /> </p>-->
@@ -103,4 +103,8 @@
   ![Static Badge](https://img.shields.io/badge/X--Twitter-(contact%20with%20me)?style=flat&logo=x&logoColor=%23eee&logoSize=200rem&labelColor=%23000000&color=%23000000&link=[https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100012178745640](https://x.com/AhmedSherifhe1))
 ![Static Badge](https://img.shields.io/badge/Linkedin-(contact%20with%20me)?style=flat&logo=linkedin&logoColor=%23eee&logoSize=200rem&labelColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmed-sherif-2b6132249%2F)
 ![Static Badge](https://img.shields.io/badge/Instagram-%23ffffff?style=flat&logo=instagram&logoColor=%23ffffff&logoSize=auto&labelColor=%23E4405F&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fahhhmmeed_sheerif%2F)
-
+![Static Badge](https://img.shields.io/badge/Behance-%23?style=plastic&logo=behance&logoSize=auto&labelColor=%231769FF&color=%231769FF&link=https%3A%2F%2Fwww.behance.net%2Fahmedsherif89)
+![Static Badge](https://img.shields.io/badge/Whatsapp-%23?style=plastic&logo=whatsapp&logoColor=%23fff&logoSize=auto&labelColor=%2325D366&color=%2325D366&link=https%3A%2F%2Fwa.me%2Fqr%2FFGX577ZPQKY2A1)
+<!--
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote="Happiness%40can%50be%60found,%70even%80in%90thedarkest_of_times,%20if_one_only_remembers_to_turn_on_thelight.")](https://github.com/piyushsuthar/github-readme-quotes)
+-->
