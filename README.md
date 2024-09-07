@@ -69,7 +69,7 @@
 ![Static Badge](https://img.shields.io/badge/notion-%23?style=for-the-badge&logo=notion&logoColor=%23eee&logoSize=200&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/pagespeed%20insights-%23?style=for-the-badge&logo=pagespeedinsights&logoColor=%234285F4&logoSize=200rem&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/lighthouse-%23?style=for-the-badge&logo=lighthouse&logoColor=%23F44B21&logoSize=200rem&labelColor=%23111&color=%23333)
-<img src="https://jwt.io/img/logo-asset.svg" height="28px"/>
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Static Badge](https://img.shields.io/badge/google%20fonts-%23ffffff?style=for-the-badge&logo=googlefonts&logoSize=auto&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/fontawesome-%23ffffff?style=for-the-badge&logo=fontawesome&logoSize=auto&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/scroll--reveal-%23ffffff?style=for-the-badge&logo=scrollreveal&logoSize=auto&labelColor=%23111&color=%23333)
@@ -91,11 +91,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-sherifhe1&show_icons=true&theme=transparent&title_color=bc436b&text_color=bc436b&icon_color=bc436b&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmed-sherifhe1&theme=transparent&hide_border=true&stroke=BC436B&ring=BC436B&fire=BC436B&currStreakNum=BC436B&sideNums=BC436B&excludeDaysLabel=BC436B&dates=BC436B&no-bg=true&sideLabels=BC436B&currStreakLabel=BC436B)](https://git.io/streak-stats)
 
+![](https://github-profile-trophy.vercel.app/?username=Ahmed-sherifhe1&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
 </div>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-sherifhe1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-sherifhe1" /> </p>-->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-sherifhe1" alt="ahmed-sherifhe1" /></a> </p>
 
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-sherifhe1" alt="ahmed-sherifhe1" /></a> </p>
+-->
 ## Connect with Me Across the Digital Universe ## 
 
   
@@ -107,4 +110,15 @@
 ![Static Badge](https://img.shields.io/badge/Whatsapp-%23?style=plastic&logo=whatsapp&logoColor=%23fff&logoSize=auto&labelColor=%2325D366&color=%2325D366&link=https%3A%2F%2Fwa.me%2Fqr%2FFGX577ZPQKY2A1)
 <!--
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote="Happiness%40can%50be%60found,%70even%80in%90thedarkest_of_times,%20if_one_only_remembers_to_turn_on_thelight.")](https://github.com/piyushsuthar/github-readme-quotes)
+-->
+<!--## Ayah of the Day
+> "Indeed, Allah is with those who fear Him and those who are doers of good." 
+> **Surah An-Nahl (16:128)**
+-->
+<!--![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=Architect&fontColor=yellow&bgColor=black)
+-->
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Happiness%20can%20be%20found,%20even%20in%20the%20darkest%20of%20times,%20if%20one%20only%20remembers%20to%20turn%20on%20the%20light.&author=Albus%20Dumbledore&type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<!--[![](https://visitcount.itsvg.in/api?id=Ahmed-sherifhe1&icon=1&color=5)](https://visitcount.itsvg.in)
 -->
