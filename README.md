@@ -5,19 +5,11 @@
 
 <!--tomorrow tasks here :
 - change color of the snake
-- adding the rest of accounts
-- adding islamic special-->
-
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&duration=3000&pause=1000&color=06AC38&center=true&vCenter=true&width=850&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sherif;A+passionate+Frontend+Developer+from+Egypt+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=24&duration=3000&pause=1000&color=bc436b&center=true&vCenter=true&width=714&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sherif;A++passionate+Frontend+Developer+from+Egypt+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 </div>
-<!--<h1 align="center">Hi 👋, I'm Ahmed Sherif</h1>
-<h2 align="center">A passionate frontend developer from Egypt 🧑‍💻</h2>-->
-<!-- <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdzOHZuNnFlMmI2MmltOHk0aHIzNmZ0NjgweGZ5Njhia2QwdXBiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.webp"> -->
 
-<!--p align="left"> <a href="https://twitter.com/ahmedsherifhe1" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedsherifhe1?logo=twitter&style=for-the-badge" alt="ahmedsherifhe1" /></a> </p>-->
 
 ### I’m currently working on **<a href="mailTo:ahmedsherifhe1@gmail.com">Rolex-App</a>** ###
 
@@ -33,15 +25,7 @@
 
 
 
-<!--<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmedsherifhe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedsherifhe1" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed sherif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed sherif" height="30" width="40" /></a>
-<a href="https://instagram.com/ahhhmmeed_sheerif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahhhmmeed_sheerif" height="30" width="40" /></a>
-<a href="https://www.behance.net/ahmed sherif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmed sherif" height="30" width="40" /></a>
-</p>
-<center>
- --> 
+
 
 
 
@@ -81,8 +65,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-sherifhe1&show_icons=false&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&title_color=bc436b&hide_border=true&text_color=bc436b)
 
 </div>
-<!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sherifhe1&show_icons=true&locale=en&layout=compact" alt="ahmed-sherifhe1" /></p>
--->
+
   
 
 
@@ -94,11 +77,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ahmed-sherifhe1&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-sherifhe1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-sherifhe1" /> </p>-->
 
-
-<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-sherifhe1" alt="ahmed-sherifhe1" /></a> </p>
--->
 ## Connect with Me Across the Digital Universe ## 
 
   
@@ -108,20 +87,11 @@
 ![Static Badge](https://img.shields.io/badge/Instagram-%23ffffff?style=flat&logo=instagram&logoColor=%23ffffff&logoSize=auto&labelColor=%23E4405F&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fahhhmmeed_sheerif%2F)
 ![Static Badge](https://img.shields.io/badge/Behance-%23?style=plastic&logo=behance&logoSize=auto&labelColor=%231769FF&color=%231769FF&link=https%3A%2F%2Fwww.behance.net%2Fahmedsherif89)
 ![Static Badge](https://img.shields.io/badge/Whatsapp-%23?style=plastic&logo=whatsapp&logoColor=%23fff&logoSize=auto&labelColor=%2325D366&color=%2325D366&link=https%3A%2F%2Fwa.me%2Fqr%2FFGX577ZPQKY2A1)
-<!--
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote="Happiness%40can%50be%60found,%70even%80in%90thedarkest_of_times,%20if_one_only_remembers_to_turn_on_thelight.")](https://github.com/piyushsuthar/github-readme-quotes)
--->
-<!--## Ayah of the Day
-> "Indeed, Allah is with those who fear Him and those who are doers of good." 
-> **Surah An-Nahl (16:128)**
--->
-<!--![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=Architect&fontColor=yellow&bgColor=black)
--->
+
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Happiness%20can%20be%20found,%20even%20in%20the%20darkest%20of%20times,%20if%20one%20only%20remembers%20to%20turn%20on%20the%20light.&author=Albus%20Dumbledore&type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!--[![](https://visitcount.itsvg.in/api?id=Ahmed-sherifhe1&icon=1&color=5)](https://visitcount.itsvg.in)
--->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -130,6 +100,7 @@
 ![ayat-light](https://github.com/user-attachments/assets/1ba2bd51-f9b2-4080-b48b-7f6dd9845336#gh-light-mode-only)
 
 </div>
-
 <!--
-!Light Mode Image <img src="https://img.freepik.com/premium-photo/beautiful-ramadan-mosque-dark-night-with-dome-middle-generative-ai_1042430-9258.jpg#gh-light-mode-only" />-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmedsherifhe1)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
