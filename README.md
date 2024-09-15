@@ -57,6 +57,9 @@
 ![Static Badge](https://img.shields.io/badge/google%20fonts-%23ffffff?style=for-the-badge&logo=googlefonts&logoSize=auto&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/fontawesome-%23ffffff?style=for-the-badge&logo=fontawesome&logoSize=auto&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/scroll--reveal-%23ffffff?style=for-the-badge&logo=scrollreveal&logoSize=auto&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/Firebase-%23?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&logoSize=auto&labelColor=%23111&color=%23333)
+
+
 
 
 <br>
