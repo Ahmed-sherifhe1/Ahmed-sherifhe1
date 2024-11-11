@@ -13,7 +13,8 @@
 
 ### I’m currently working on **<a href="mailTo:ahmedsherifhe1@gmail.com">Rolex-App</a>** ###
 
-### I’m currently learning **Firebase With React JS** ###
+### I’m currently learning **React With TypeScript** ### 
+
 
 ### How to reach me **ahmedsherifhe1@gmail.com** ###
 
