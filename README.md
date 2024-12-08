@@ -13,7 +13,7 @@
 
 ### I’m currently working on **<a href="https://github.com/Ahmed-sherifhe1/Rolex-Web-App">Rolex-App</a>** ###
 
-### I’m currently learning **React With TypeScript** ### 
+### I’m currently learning **Docker** ### 
 
 
 ### How to reach me **ahmedsherifhe1@gmail.com** ###
@@ -59,6 +59,9 @@
 ![Static Badge](https://img.shields.io/badge/fontawesome-%23ffffff?style=for-the-badge&logo=fontawesome&logoSize=auto&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/scroll--reveal-%23ffffff?style=for-the-badge&logo=scrollreveal&logoSize=auto&labelColor=%23111&color=%23333)
 ![Static Badge](https://img.shields.io/badge/Firebase-%23?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&logoSize=auto&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/Docker-%23?style=for-the-badge&logo=docker&logoSize=auto&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/Three%20JS-%23?style=for-the-badge&logo=threedotjs&logoSize=auto&labelColor=%23111&color=%23333)
+![Static Badge](https://img.shields.io/badge/Prettier-%23?style=for-the-badge&logo=prettier&logoSize=auto&labelColor=%23111&color=%23333)
 
 
 
