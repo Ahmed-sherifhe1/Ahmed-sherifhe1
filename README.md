@@ -86,7 +86,7 @@
 
 </div>
 
-## Padges From <a href="https://www.hackerrank.com/ahmedsherifhe1">Hacker Rank</a> ##
+## Badges From <a href="https://www.hackerrank.com/ahmedsherifhe1">Hacker Rank</a> ##
 
 <a href="https://www.hackerrank.com/ahmedsherifhe1" targe="_blank">
 <img src="https://github.com/user-attachments/assets/50e7940a-7f59-4f20-bacd-a561f3bd2516" width="80px"/>
