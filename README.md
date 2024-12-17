@@ -81,9 +81,19 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-sherifhe1&show_icons=true&theme=transparent&title_color=bc436b&text_color=bc436b&icon_color=bc436b&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmed-sherifhe1&theme=transparent&hide_border=true&stroke=BC436B&ring=BC436B&fire=BC436B&currStreakNum=BC436B&sideNums=BC436B&excludeDaysLabel=BC436B&dates=BC436B&no-bg=true&sideLabels=BC436B&currStreakLabel=BC436B)](https://git.io/streak-stats)
 
+
 ![](https://github-profile-trophy.vercel.app/?username=Ahmed-sherifhe1&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
+
+## Padges From <a href="https://www.hackerrank.com/ahmedsherifhe1">Hacker Rank</a> ##
+
+<a href="https://www.hackerrank.com/ahmedsherifhe1" targe="_blank">
+<img src="https://github.com/user-attachments/assets/50e7940a-7f59-4f20-bacd-a561f3bd2516" width="80px"/>
+</a>
+
+
+
 
 ## Connect with Me Across the Digital Universe ## 
 
