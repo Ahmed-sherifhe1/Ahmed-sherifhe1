@@ -91,6 +91,9 @@
 <a href="https://www.hackerrank.com/ahmedsherifhe1" targe="_blank">
 <img src="https://github.com/user-attachments/assets/50e7940a-7f59-4f20-bacd-a561f3bd2516" width="80px"/>
 </a>
+<a href="https://www.hackerrank.com/ahmedsherifhe1" targe="_blank">
+<img src="https://github.com/user-attachments/assets/8eb13489-43c9-4132-b66e-d58e832ae010" width="80px"/>
+</a>
 
 
 
