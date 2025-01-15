@@ -11,7 +11,7 @@
 </div>
 
 
-### I’m currently working on <a href="https://something-special-shef0o0.netlify.app/" target="_blank">**Something Special 🤔?!!**</a>
+### I’m currently working on <a href="https://something-special-shef0o0.netlify.app/">**Something Special 🤔?!!**</a>
 
 ### I’m currently learning **Zustand 🐻** ### 
 
