@@ -11,9 +11,9 @@
 </div>
 
 
-### I’m currently working on **<a href="https://github.com/Ahmed-sherifhe1/Rolex-Web-App">Rolex-App</a>** ###
+### I’m currently working on <a href="https://something-special-shef0o0.netlify.app/">**Something Special 🤔?!!**</a>
 
-### I’m currently learning **Docker** ### 
+### I’m currently learning **Zustand 🐻** ### 
 
 
 ### How to reach me **ahmedsherifhe1@gmail.com** ###
